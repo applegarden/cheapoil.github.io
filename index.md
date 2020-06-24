@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 欢迎使用优惠加油站，我们的愿景是让车主省更多的油钱。
 
 You can use the [editor on GitHub](https://github.com/applegarden/cheapoil.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
